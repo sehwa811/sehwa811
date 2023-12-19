@@ -1,6 +1,10 @@
 ### Sehwa Park's Github 🐬
 
+<h3 align="center">📫 Contact 📫</h3>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wsd0811)](https://velog.io/@wsd0811)
+<a href="https://velog.io/wsd0811">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
