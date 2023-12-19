@@ -1,4 +1,4 @@
-### Sehwa Park's Github 🐬
+<h1 align="center">Sehwa Park's Github 🐬</h3>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -75,5 +75,5 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wsd0811)](https://velog.io/@wsd0811)
 
-![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwa811&show_icons=true&theme=radical)
+
 
