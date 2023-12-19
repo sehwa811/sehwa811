@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="[Velog](https://velog.io/@wsd0811)" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="[Velog](https://velog.io/@wsd0811)" target="_blank"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 <!--
 **sehwa811/sehwa811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
