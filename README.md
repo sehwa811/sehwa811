@@ -1,12 +1,16 @@
 ### Sehwa Park's Github 🐬
 
 <h3 align="center">📫 Contact 📫</h3>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wsd0811)](https://velog.io/@wsd0811)
-
-<a href="https://velog.io/wsd0811">
+<div align="center">
+  <a href="https://velog.io/wsd0811">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-</a>
+  </a>
+  <a href="wsd08111@gmail.com">
+    <img
+      src="https://img.shields.io/badge/wsd08111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -18,7 +22,6 @@
 </div>
 
 
-    ![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwa811&show_icons=true&theme=radical)
 
 
 
@@ -68,13 +71,9 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/wsd0811">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="wsd08111@gmail.com">
-    <img
-      src="https://img.shields.io/badge/wsd08111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wsd0811)](https://velog.io/@wsd0811)
+
+![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwa811&show_icons=true&theme=radical)
+
