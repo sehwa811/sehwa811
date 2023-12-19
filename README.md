@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<a href="https://velog.io/@wsd0811" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="[Velog](https://velog.io/@wsd0811)" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
+![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsd08111&show_icons=true&theme=radical)
+
 <!--
 **sehwa811/sehwa811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
