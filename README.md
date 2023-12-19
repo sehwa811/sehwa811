@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=NextJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 ![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehwa811&show_icons=true&theme=radical)
 
